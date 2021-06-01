@@ -16,5 +16,5 @@ Final Project Code for Machine Learning Course in 2021
 * 會計碩一 林孟萱 09352039
 
 ## Data Source
-* TEJ (https://www.google.com)
-* Finmind API (https://www.google.com)
+* [TEJ](https://www.tej.com.tw/)
+* [Finmind API](https://finmindtrade.com/analysis/#/data/api)
