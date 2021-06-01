@@ -14,3 +14,7 @@ Final Project Code for Machine Learning Course in 2021
 * 巨資碩一 孫佑鈞 09370005
 * 會計碩一 洪季芃 09352042
 * 會計碩一 林孟萱 09352039
+
+## Data Source
+* TEJ (https://www.google.com)
+* Finmind API (https://www.google.com)
