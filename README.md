@@ -1,7 +1,6 @@
 # Machine-Learning-Course
 Final Project Code for Machine Learning Course in 2021
 
-## School
 ![alt 文字](https://news.idea-show.com/wp-content/uploads/2019/12/%E6%9D%B1%E5%90%B3%E5%A4%A7%E5%AD%B8-520x245.jpg)
 
 ## Final Project
